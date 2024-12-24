@@ -1,0 +1,4 @@
+Mozilla/5.0 (Linux; Android 12; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone13,2 OS 17_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/91.0.1332.61 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (iPhone; CPU iPhone13,3 OS 17_3 like Mac OS X) AppleWebKit/605.1.17 (KHTML, like Gecko) EdgiOS/98.0.1702.82 Mobile/15E148 Safari/605.1.15
+Mozilla/5.0 (Linux; Android 12.0; SM-G991B) AppleWebKit/580.31 (KHTML, like Gecko) EdgA/112.0.1589.78
